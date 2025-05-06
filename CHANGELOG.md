@@ -1,3 +1,25 @@
+# v1.2.19 (Tue May 06 2025)
+
+#### ⚠️ Pushed to `main`
+
+- remove version from pnpm action ([@zbowhay](https://github.com/zbowhay))
+- fix(deps): CORE-13028 - fixing build (zac@corellium.com)
+
+#### 🔩 Dependency Updates
+
+- Bump @types/node from 22.5.2 to 22.5.5 [#39](https://github.com/corellium/corellium-typescript/pull/39) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump ultracite from 4.0.6 to 4.1.1 [#40](https://github.com/corellium/corellium-typescript/pull/40) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @biomejs/biome from 1.8.3 to 1.9.1 [#41](https://github.com/corellium/corellium-typescript/pull/41) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump typescript from 5.5.4 to 5.6.2 [#42](https://github.com/corellium/corellium-typescript/pull/42) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 3
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Zac Bowhay (zac@corellium.com)
+- Zachary Bowhay ([@zbowhay](https://github.com/zbowhay))
+
+---
+
 # v1.2.18 (Wed Sep 18 2024)
 
 #### ⚠️ Pushed to `main`
