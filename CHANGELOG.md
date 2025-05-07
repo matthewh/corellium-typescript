@@ -1,3 +1,16 @@
+# v1.2.22 (Wed May 07 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Update security workflow permissions (lenard@corellium.com)
+- Fix security workflow (lenard@corellium.com)
+
+#### Authors: 1
+
+- Lenard Gutierrez (lenard@corellium.com)
+
+---
+
 # v1.2.21 (Wed May 07 2025)
 
 #### 🐛 Bug Fix
