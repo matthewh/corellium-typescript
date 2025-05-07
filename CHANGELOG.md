@@ -1,3 +1,16 @@
+# v1.2.21 (Wed May 07 2025)
+
+#### 🐛 Bug Fix
+
+- Lgutierrez/add sec action [#58](https://github.com/corellium/corellium-typescript/pull/58) (lenard@corellium.com [@Lenguti](https://github.com/Lenguti))
+
+#### Authors: 2
+
+- Lenard Gutierrez (lenard@corellium.com)
+- Lennie Gutierrez ([@Lenguti](https://github.com/Lenguti))
+
+---
+
 # v1.2.20 (Wed May 07 2025)
 
 #### ⚠️ Pushed to `main`
