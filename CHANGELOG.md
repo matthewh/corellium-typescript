@@ -1,3 +1,15 @@
+# v1.2.20 (Wed May 07 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Add security workflow (lenard@corellium.com)
+
+#### Authors: 1
+
+- Lenard Gutierrez (lenard@corellium.com)
+
+---
+
 # v1.2.19 (Tue May 06 2025)
 
 #### ⚠️ Pushed to `main`
